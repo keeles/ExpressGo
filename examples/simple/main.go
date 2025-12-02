@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	eg "github.com/keeles/go-http-server"
+	eg "github.com/keeles/expressgo"
 )
 
 func main() {

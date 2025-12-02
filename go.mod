@@ -1,3 +1,3 @@
-module github.com/keeles/go-http-server
+module github.com/keeles/expressgo
 
 go 1.25.4
